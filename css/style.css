@@ -246,3 +246,39 @@ a {
     width: 67px;
     height: 5px;
 }
+
+.person-circle {
+    width: 127px;
+    height: 127px;
+    background: #d7d7d7;
+    border-radius: 50%;
+    margin: auto;
+    margin-bottom: 25px;
+}
+
+.our-team-list h5.title {
+    color: #fff;
+    font: 16px/16px OpenSans, sans-serif;
+    margin-bottom: 39px;
+}
+
+.our-team-list h5.title span {
+    font: 20px/20px OpenSans, sans-serif;
+}
+
+.our-team-list ul {
+    text-align: center;
+}
+
+.our-team-list li {
+    text-align: center;
+    display: inline-block;
+    width: 262px;
+}
+
+.description {
+    font: 14px/14px OpenSans, sans-serif;
+    color: #fff;
+    margin-bottom: 162px;
+}
+
