@@ -5,4 +5,12 @@ $(document).ready(function(){
         arrows: false,
         dots: true
     });
+    $('.slick-js-testimonial').slick({
+        dots: true,
+        infinite: true,
+        speed: 300,
+        slidesToShow: 1,
+        adaptiveHeight: true,
+        arrows: false
+    });
 });

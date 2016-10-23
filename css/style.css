@@ -269,7 +269,6 @@ h1.title {
 
 .our-team-list ul {
     text-align: center;
-    margin-bottom: ;
 }
 
 .our-team-list .our-team-slide {
@@ -503,4 +502,31 @@ h1.title {
 .work-pos-3,
 .work-pos-4 {
     background: url("../img/item-1.png") no-repeat center;
+}
+
+.testimonial {
+    background: #000;
+    padding-bottom: 150px;
+}
+
+.testimonial .border-bottom-2 {
+    margin-bottom: 101px;
+}
+
+.info-testimonials {
+    width: 945px;
+    margin: 0 auto;
+}
+
+.info-testimonials p {
+    text-align: center;
+    font: 600 18px/18px OpenSans, sans-serif;
+    color: #e7e7e7;
+    margin-bottom: 50px;
+}
+
+.info-testimonials span {
+    margin-left: 450px;
+    font: 600 18px/18px OpenSans, sans-serif;
+    color: #e7e7e7;
 }
