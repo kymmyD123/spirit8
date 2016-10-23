@@ -389,3 +389,100 @@ h1.title {
     background: url("../img/clients-sprite.png") no-repeat;
     background-position: -660px 3px;
 }
+
+.our-work h1.title {
+    color: #000;
+}
+
+.border-bottom-2 {
+    margin-bottom: 39px;
+}
+
+.work-description {
+    text-align: center;
+    margin-bottom: 105px;
+    color: #6c6c6c;
+    font: italic 16px/18px OpenSans, sans-serif;
+}
+
+.our-work-filter {
+    margin-bottom: 50px;
+    margin-left: 15px;
+    font: 300 18px/18px OpenSans, sans-serif;
+    text-transform: uppercase;
+}
+
+.our-work-links {
+    margin-right: 15px;
+}
+
+.our-work-links li {
+    display: inline-block;
+    margin-left: 43px;
+}
+
+.our-work-links li a {
+    color: #6c6c6c;
+    font: 18px/18px OpenSans, sans-serif;
+}
+
+.our-work-links li a:hover {
+    color: #000;
+}
+
+.our-work-poz {
+    margin-left: 15px;
+}
+
+.work-position {
+    width: 263px;
+    height: 238px;
+    text-align: center;
+}
+
+.work-pos-2 {
+    background: url("../img/item-4.png") no-repeat center;
+}
+
+.work-pos-1,
+.work-pos-2,
+.work-pos-3 {
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+.work-pos-4 {
+    margin-bottom: 30px;
+}
+
+.work-pos-5 {
+    margin-right: 13px;
+    margin-bottom: 30px;
+    background: url("../img/item-2.png") no-repeat center;
+}
+
+.work-pos-6,
+.work-pos-7,
+.work-pos-8 {
+    margin-right: 30px;
+    margin-bottom: 30px;
+    background: url("../img/item-2.png") no-repeat center;
+}
+
+.work-pos-9,
+.work-pos-10,
+.work-pos-11 {
+    margin-right: 30px;
+    margin-bottom: 100px;
+    background: url("../img/item-3.png") no-repeat center;
+}
+
+.work-pos-12 {
+    background: url("../img/item-3.png") no-repeat center;
+}
+
+.work-pos-1,
+.work-pos-3,
+.work-pos-4 {
+    background: url("../img/item-1.png") no-repeat center;
+}
