@@ -221,6 +221,7 @@ a {
 
 .our_team {
     background: #000;
+    padding-bottom: 167px;
 }
 
 h1.title {
@@ -268,18 +269,32 @@ h1.title {
 
 .our-team-list ul {
     text-align: center;
+    margin-bottom: ;
 }
 
-.our-team-list li {
+.our-team-list .our-team-slide {
     text-align: center;
     display: inline-block;
     width: 262px;
 }
 
+.slick-dots {
+    bottom: -72px;
+}
+
+.slick-dots li button {
+    color: #fff;
+    background: #fff;
+}
+
+.slick-dots li button:hover {
+    color: #fcac45;
+    background: #fcac45;
+}
+
 .description {
     font: 14px/14px OpenSans, sans-serif;
     color: #fff;
-    margin-bottom: 162px;
 }
 
 .service h1.title {
