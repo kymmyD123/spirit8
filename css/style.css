@@ -280,11 +280,14 @@ h1.title {
 
 .slick-dots {
     bottom: -72px;
+    font-size: 0;
 }
 
 .slick-dots li button {
     color: #fff;
     background: #fff;
+    width: 9px;
+    height: 9px;
 }
 
 .slick-dots li button:hover {

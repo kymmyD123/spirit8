@@ -26,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="133" column="45" lean-forward="false" selection-start-line="133" selection-start-column="31" selection-end-line="133" selection-end-column="45" />
+            <state relative-caret-position="854">
+              <caret line="156" column="25" lean-forward="false" selection-start-line="156" selection-start-column="25" selection-end-line="156" selection-end-column="25" />
               <folding>
                 <element signature="e#1523#1529#0" expanded="true" />
                 <element signature="n#div#1;n#div#2;n#div#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -36,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="739">
-              <caret line="286" column="20" lean-forward="false" selection-start-line="286" selection-start-column="20" selection-end-line="286" selection-end-column="20" />
+            <state relative-caret-position="790">
+              <caret line="289" column="13" lean-forward="false" selection-start-line="289" selection-start-column="13" selection-end-line="289" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -56,10 +56,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="slick.min.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="slick.min.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/slick.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="323">
               <caret line="16" column="382" lean-forward="false" selection-start-line="16" selection-start-column="382" selection-end-line="16" selection-end-column="382" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -90,9 +90,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/js/script.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/js/script.js" />
       </list>
     </option>
   </component>
@@ -265,12 +265,12 @@
       <workItem from="1476910457895" duration="1071000" />
       <workItem from="1476962875782" duration="940000" />
       <workItem from="1477222442462" duration="3875000" />
-      <workItem from="1477234860901" duration="5603000" />
+      <workItem from="1477234860901" duration="6372000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26542000" />
+    <option name="totallyTimeSpent" value="27311000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="44" width="1189" height="1036" extended-state="0" />
@@ -502,24 +502,22 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/jquery-3.1.1.js" />
-    <entry file="file://$PROJECT_DIR$/js/slick.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="16" column="382" lean-forward="false" selection-start-line="16" selection-start-column="382" selection-end-line="16" selection-end-column="382" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="133" column="45" lean-forward="false" selection-start-line="133" selection-start-column="31" selection-end-line="133" selection-end-column="45" />
+        <state relative-caret-position="854">
+          <caret line="156" column="25" lean-forward="false" selection-start-line="156" selection-start-column="25" selection-end-line="156" selection-end-column="25" />
           <folding>
             <element signature="e#1523#1529#0" expanded="true" />
             <element signature="n#div#1;n#div#2;n#div#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="790">
+          <caret line="289" column="13" lean-forward="false" selection-start-line="289" selection-start-column="13" selection-end-line="289" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -531,11 +529,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/js/slick.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="739">
-          <caret line="286" column="20" lean-forward="false" selection-start-line="286" selection-start-column="20" selection-end-line="286" selection-end-column="20" />
-          <folding />
+        <state relative-caret-position="323">
+          <caret line="16" column="382" lean-forward="false" selection-start-line="16" selection-start-column="382" selection-end-line="16" selection-end-column="382" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
