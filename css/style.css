@@ -49,6 +49,11 @@ a {
     margin: 0 auto;
 }
 
+.center {
+    width: 750px;
+    margin: 0 auto;
+}
+
 .header {
     background: #000;
     width: 100%;
@@ -529,4 +534,55 @@ h1.title {
     margin-left: 450px;
     font: 600 18px/18px OpenSans, sans-serif;
     color: #e7e7e7;
+}
+
+.contact .title {
+    color: #000;
+}
+
+.form-wrap p span {
+    color: #db0000;
+}
+
+.form-wrap-mail p {
+    width: 360px;
+    margin-left: 22px;
+}
+
+.form-wrap input {
+    width: 360px;
+    height: 40px;
+    margin-bottom: 30px;
+}
+
+.form-wrap-mail p {
+}
+
+.form-wrap-mail input {
+    margin-left: 22px;
+}
+
+.form-wrap textarea {
+    resize: none;
+    width: 100%;
+    height: 165px;
+    margin-bottom: 30px;
+}
+
+.footer-submit-btn {
+    outline: none;
+    border: none;
+    float: right;
+    background: #fcac45;
+    color: #fff;
+    font: 600 16px/16px OpenSans, sans-serif;
+    text-transform: uppercase;
+    width: 165px;
+    height: 40px;
+    cursor: pointer;
+    margin-bottom: 100px;
+}
+
+.footer-submit-btn:hover {
+    background: #d68c3f;
 }
