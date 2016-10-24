@@ -586,3 +586,59 @@ h1.title {
 .footer-submit-btn:hover {
     background: #d68c3f;
 }
+
+.footer {
+    background: #222222;
+}
+
+.footer p {
+    margin-top: 45px;
+    margin-bottom: 45px;
+    font: 12px/12px OpenSans, sans-serif;
+    color: #fff;
+}
+
+
+
+.social-net {
+    width: 213px;
+    height: 32px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.s-net {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    margin-left: 13px;
+}
+
+.s-net:first-child {
+    margin-left: 0;
+}
+
+.s-net-1 {
+    background: url("../img/s-net-sprite.png") no-repeat center;
+    background-position: 0 0;
+}
+
+.s-net-2 {
+    background: url("../img/s-net-sprite.png") no-repeat center;
+    background-position: -33px 0;
+}
+
+.s-net-3 {
+    background: url("../img/s-net-sprite.png") no-repeat center;
+    background-position: -65px 0;
+}
+
+.s-net-4 {
+    background: url("../img/s-net-sprite.png") no-repeat center;
+    background-position: -98px 0;
+}
+
+.s-net-5 {
+    background: url("../img/s-net-sprite.png") no-repeat center;
+    background-position: -131px 0;
+}
